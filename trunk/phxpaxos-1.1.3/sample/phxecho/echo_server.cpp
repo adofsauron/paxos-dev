@@ -86,16 +86,16 @@ int PhxEchoServer :: RunPaxos()
     oOptions.vecGroupSMInfoList.push_back(oSMInfo);
 
     //use logger_google to print log
-    LogFunc pLogFunc;
-    ret = LoggerGoogle :: GetLogger("phxecho", "./log", 3, pLogFunc);
-    if (ret != 0)
-    {
-        printf("get logger_google fail, ret %d\n", ret);
-        return ret;
-    }
+    // LogFunc pLogFunc;
+    // ret = LoggerGoogle :: GetLogger("phxecho", "./log", 3, pLogFunc);
+    // if (ret != 0)
+    // {
+    //     printf("get logger_google fail, ret %d\n", ret);
+    //     return ret;
+    // }
 
-    //set logger
-    oOptions.pLogFunc = pLogFunc;
+    // //set logger
+    // oOptions.pLogFunc = pLogFunc;
 
     ret = Node::RunNode(oOptions, m_poPaxosNode);
     if (ret != 0)

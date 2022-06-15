@@ -153,7 +153,7 @@ function install_glog()
         bash ./configure CXXFLAGS=-fPIC --prefix=$(pwd) --with-gflags=$exist_gflags_dir;
     else
         # use system gflags
-        bah ./configure CXXFLAGS=-fPIC --prefix=$(pwd);
+        bash ./configure CXXFLAGS=-fPIC --prefix=$(pwd);
     fi
     make -j"$(nproc)" && make install;
 
