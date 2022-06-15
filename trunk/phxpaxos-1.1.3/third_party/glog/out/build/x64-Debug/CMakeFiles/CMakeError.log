@@ -1,0 +1,540 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_90726 && [1/2] Building C object CMakeFiles\cmTC_90726.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_90726.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_90726.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_90726.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file dlfcn.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_862d0 && [1/2] Building C object CMakeFiles\cmTC_862d0.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_862d0.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_862d0.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_862d0.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'dlfcn.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file execinfo.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ee88d && [1/2] Building C object CMakeFiles\cmTC_ee88d.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_ee88d.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_ee88d.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_ee88d.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'execinfo.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file glob.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_59be8 && [1/2] Building C object CMakeFiles\cmTC_59be8.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_59be8.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_59be8.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_59be8.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'glob.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file libunwind.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a88e8 && [1/2] Building C object CMakeFiles\cmTC_a88e8.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_a88e8.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a88e8.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_a88e8.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'libunwind.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file pwd.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_97409 && [1/2] Building C object CMakeFiles\cmTC_97409.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_97409.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_97409.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_97409.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pwd.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c35f7 && [1/2] Building C object CMakeFiles\cmTC_c35f7.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_c35f7.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_c35f7.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_c35f7.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/syscall.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5fadf && [1/2] Building C object CMakeFiles\cmTC_5fadf.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_5fadf.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_5fadf.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_5fadf.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/syscall.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4ef03 && [1/2] Building C object CMakeFiles\cmTC_4ef03.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_4ef03.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_4ef03.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_4ef03.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/utsname.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0cd86 && [1/2] Building C object CMakeFiles\cmTC_0cd86.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_0cd86.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_0cd86.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_0cd86.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/utsname.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file syscall.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_62aae && [1/2] Building C object CMakeFiles\cmTC_62aae.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_62aae.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_62aae.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_62aae.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'syscall.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file syslog.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_74c70 && [1/2] Building C object CMakeFiles\cmTC_74c70.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_74c70.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_74c70.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_74c70.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'syslog.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file ucontext.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c25f9 && [1/2] Building C object CMakeFiles\cmTC_c25f9.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_c25f9.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_c25f9.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_c25f9.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'ucontext.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ea9e4 && [1/2] Building C object CMakeFiles\cmTC_ea9e4.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_ea9e4.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_ea9e4.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_ea9e4.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file unwind.h exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1644c && [1/2] Building C object CMakeFiles\cmTC_1644c.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_1644c.dir/CheckIncludeFile.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_1644c.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_1644c.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unwind.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file ext/hash_map exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6387f && [1/2] Building CXX object CMakeFiles\cmTC_6387f.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_6387f.dir/CheckIncludeFile.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_6387f.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_6387f.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'ext/hash_map': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file ext/hash_set exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_22fff && [1/2] Building CXX object CMakeFiles\cmTC_22fff.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_22fff.dir/CheckIncludeFile.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_22fff.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_22fff.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'ext/hash_set': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file ext/slist exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a69b2 && [1/2] Building CXX object CMakeFiles\cmTC_a69b2.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_a69b2.dir/CheckIncludeFile.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a69b2.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_a69b2.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'ext/slist': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file tr1/unordered_map exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3e298 && [1/2] Building CXX object CMakeFiles\cmTC_3e298.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_3e298.dir/CheckIncludeFile.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_3e298.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_3e298.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'tr1/unordered_map': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file tr1/unordered_set exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_747a5 && [1/2] Building CXX object CMakeFiles\cmTC_747a5.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_747a5.dir/CheckIncludeFile.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_747a5.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_747a5.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'tr1/unordered_set': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining size of u_int16_t failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_590a4 && [1/2] Building C object CMakeFiles\cmTC_590a4.dir\HAVE_U_INT16_T.c.obj
+FAILED: CMakeFiles/cmTC_590a4.dir/HAVE_U_INT16_T.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_590a4.dir\HAVE_U_INT16_T.c.obj /FdCMakeFiles\cmTC_590a4.dir\ /FS -c D:\work\code\paxos-dev\trunk\phxpaxos-1.1.3\third_party\glog\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_U_INT16_T.c
+D:\work\code\paxos-dev\trunk\phxpaxos-1.1.3\third_party\glog\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_U_INT16_T.c(29): error C2065: 'u_int16_t': undeclared identifier
+D:\work\code\paxos-dev\trunk\phxpaxos-1.1.3\third_party\glog\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_U_INT16_T.c(30): error C2065: 'u_int16_t': undeclared identifier
+D:\work\code\paxos-dev\trunk\phxpaxos-1.1.3\third_party\glog\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_U_INT16_T.c(31): error C2065: 'u_int16_t': undeclared identifier
+D:\work\code\paxos-dev\trunk\phxpaxos-1.1.3\third_party\glog\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_U_INT16_T.c(32): error C2065: 'u_int16_t': undeclared identifier
+D:\work\code\paxos-dev\trunk\phxpaxos-1.1.3\third_party\glog\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_U_INT16_T.c(33): error C2065: 'u_int16_t': undeclared identifier
+ninja: build stopped: subcommand failed.
+
+
+D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CheckTypeSize/HAVE_U_INT16_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(u_int16_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function dladdr exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_36760 && [1/2] Building C object CMakeFiles\cmTC_36760.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_36760.exe
+FAILED: cmTC_36760.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_36760.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_36760.dir\CheckFunctionExists.c.obj  /out:cmTC_36760.exe /implib:cmTC_36760.lib /pdb:cmTC_36760.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_36760.dir\CheckFunctionExists.c.obj /out:cmTC_36760.exe /implib:cmTC_36760.lib /pdb:cmTC_36760.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_36760.dir/intermediate.manifest CMakeFiles\cmTC_36760.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol dladdr referenced in function main
+cmTC_36760.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function fcntl exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ab064 && [1/2] Building C object CMakeFiles\cmTC_ab064.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_ab064.exe
+FAILED: cmTC_ab064.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_ab064.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_ab064.dir\CheckFunctionExists.c.obj  /out:cmTC_ab064.exe /implib:cmTC_ab064.lib /pdb:cmTC_ab064.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_ab064.dir\CheckFunctionExists.c.obj /out:cmTC_ab064.exe /implib:cmTC_ab064.lib /pdb:cmTC_ab064.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_ab064.dir/intermediate.manifest CMakeFiles\cmTC_ab064.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol fcntl referenced in function main
+cmTC_ab064.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function pread exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d226e && [1/2] Building C object CMakeFiles\cmTC_d226e.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_d226e.exe
+FAILED: cmTC_d226e.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d226e.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_d226e.dir\CheckFunctionExists.c.obj  /out:cmTC_d226e.exe /implib:cmTC_d226e.lib /pdb:cmTC_d226e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_d226e.dir\CheckFunctionExists.c.obj /out:cmTC_d226e.exe /implib:cmTC_d226e.lib /pdb:cmTC_d226e.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_d226e.dir/intermediate.manifest CMakeFiles\cmTC_d226e.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol pread referenced in function main
+cmTC_d226e.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function pwrite exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_39785 && [1/2] Building C object CMakeFiles\cmTC_39785.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_39785.exe
+FAILED: cmTC_39785.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_39785.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_39785.dir\CheckFunctionExists.c.obj  /out:cmTC_39785.exe /implib:cmTC_39785.lib /pdb:cmTC_39785.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_39785.dir\CheckFunctionExists.c.obj /out:cmTC_39785.exe /implib:cmTC_39785.lib /pdb:cmTC_39785.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_39785.dir/intermediate.manifest CMakeFiles\cmTC_39785.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol pwrite referenced in function main
+cmTC_39785.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function sigaction exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_562e6 && [1/2] Building C object CMakeFiles\cmTC_562e6.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_562e6.exe
+FAILED: cmTC_562e6.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_562e6.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_562e6.dir\CheckFunctionExists.c.obj  /out:cmTC_562e6.exe /implib:cmTC_562e6.lib /pdb:cmTC_562e6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_562e6.dir\CheckFunctionExists.c.obj /out:cmTC_562e6.exe /implib:cmTC_562e6.lib /pdb:cmTC_562e6.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_562e6.dir/intermediate.manifest CMakeFiles\cmTC_562e6.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol sigaction referenced in function main
+cmTC_562e6.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function sigaltstack exists failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_70063 && [1/2] Building C object CMakeFiles\cmTC_70063.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_70063.exe
+FAILED: cmTC_70063.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_70063.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_70063.dir\CheckFunctionExists.c.obj  /out:cmTC_70063.exe /implib:cmTC_70063.lib /pdb:cmTC_70063.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_70063.dir\CheckFunctionExists.c.obj /out:cmTC_70063.exe /implib:cmTC_70063.lib /pdb:cmTC_70063.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_70063.dir/intermediate.manifest CMakeFiles\cmTC_70063.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol sigaltstack referenced in function main
+cmTC_70063.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+
+Performing C++ SOURCE FILE Test HAVE_NO_DEPRECATED failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5a66c && [1/2] Building CXX object CMakeFiles\cmTC_5a66c.dir\src.cxx.obj
+FAILED: CMakeFiles/cmTC_5a66c.dir/src.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP -DHAVE_NO_DEPRECATED  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1   -Wdeprecated /showIncludes /FoCMakeFiles\cmTC_5a66c.dir\src.cxx.obj /FdCMakeFiles\cmTC_5a66c.dir\ /FS -c src.cxx
+cl : Command line error D8021 : invalid numeric argument '/Wdeprecated'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_NO_UNNAMED_TYPE_TEMPLATE_ARGS failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6eeb4 && [1/2] Building CXX object CMakeFiles\cmTC_6eeb4.dir\src.cxx.obj
+FAILED: CMakeFiles/cmTC_6eeb4.dir/src.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP -DHAVE_NO_UNNAMED_TYPE_TEMPLATE_ARGS  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1   -Wunnamed-type-template-args /showIncludes /FoCMakeFiles\cmTC_6eeb4.dir\src.cxx.obj /FdCMakeFiles\cmTC_6eeb4.dir\ /FS -c src.cxx
+cl : Command line error D8021 : invalid numeric argument '/Wunnamed-type-template-args'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Determining if the function get_static_proc_name exists in the unwind failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_64f07 && [1/2] Building C object CMakeFiles\cmTC_64f07.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_64f07.exe
+FAILED: cmTC_64f07.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_64f07.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_64f07.dir\CheckFunctionExists.c.obj  /out:cmTC_64f07.exe /implib:cmTC_64f07.lib /pdb:cmTC_64f07.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  unwind.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_64f07.dir\CheckFunctionExists.c.obj /out:cmTC_64f07.exe /implib:cmTC_64f07.lib /pdb:cmTC_64f07.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console unwind.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_64f07.dir/intermediate.manifest CMakeFiles\cmTC_64f07.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: cannot open file 'unwind.lib'
+ninja: build stopped: subcommand failed.
+
+
+
+Performing C SOURCE FILE Test HAVE___ATTRIBUTE__ failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_520a6 && [1/2] Building C object CMakeFiles\cmTC_520a6.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_520a6.dir/src.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo -DHAVE___ATTRIBUTE__  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_520a6.dir\src.c.obj /FdCMakeFiles\cmTC_520a6.dir\ /FS -c src.c
+src.c(3): error C2061: syntax error: identifier '__attribute__'
+src.c(3): error C2059: syntax error: ';'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <stdlib.h>
+static void foo(void) __attribute__ ((unused));
+int main(void) { return 0; }
+
+Performing C SOURCE FILE Test HAVE___ATTRIBUTE__VISIBILITY_DEFAULT failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ab3ca && [1/2] Building C object CMakeFiles\cmTC_ab3ca.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_ab3ca.dir/src.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo -DHAVE___ATTRIBUTE__VISIBILITY_DEFAULT  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_ab3ca.dir\src.c.obj /FdCMakeFiles\cmTC_ab3ca.dir\ /FS -c src.c
+src.c(3): error C2061: syntax error: identifier '__attribute__'
+src.c(3): error C2059: syntax error: ';'
+src.c(3): error C2143: syntax error: missing ')' before 'string'
+src.c(3): error C2059: syntax error: ')'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <stdlib.h>
+static void foo(void) __attribute__ ((visibility("default")));
+int main(void) { return 0; }
+
+Performing C SOURCE FILE Test HAVE___ATTRIBUTE__VISIBILITY_HIDDEN failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_752e3 && [1/2] Building C object CMakeFiles\cmTC_752e3.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_752e3.dir/src.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo -DHAVE___ATTRIBUTE__VISIBILITY_HIDDEN  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_752e3.dir\src.c.obj /FdCMakeFiles\cmTC_752e3.dir\ /FS -c src.c
+src.c(3): error C2061: syntax error: identifier '__attribute__'
+src.c(3): error C2059: syntax error: ';'
+src.c(3): error C2143: syntax error: missing ')' before 'string'
+src.c(3): error C2059: syntax error: ')'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <stdlib.h>
+static void foo(void) __attribute__ ((visibility("hidden")));
+int main(void) { return 0; }
+
+Performing C SOURCE FILE Test HAVE___BUILTIN_EXPECT failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e65e7 && [1/2] Building C object CMakeFiles\cmTC_e65e7.dir\src.c.obj
+src.c(2): warning C4013: '__builtin_expect' undefined; assuming extern returning int
+[2/2] Linking C executable cmTC_e65e7.exe
+FAILED: cmTC_e65e7.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e65e7.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_e65e7.dir\src.c.obj  /out:cmTC_e65e7.exe /implib:cmTC_e65e7.lib /pdb:cmTC_e65e7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_e65e7.dir\src.c.obj /out:cmTC_e65e7.exe /implib:cmTC_e65e7.lib /pdb:cmTC_e65e7.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_e65e7.dir/intermediate.manifest CMakeFiles\cmTC_e65e7.dir/manifest.res" failed (exit code 1120) with the following output:
+src.c.obj : error LNK2019: unresolved external symbol __builtin_expect referenced in function main
+cmTC_e65e7.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+int main(void) { if (__builtin_expect(0, 0)) return 1; return 0; }
+
+Performing C SOURCE FILE Test HAVE___SYNC_VAL_COMPARE_AND_SWAP failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_771c1 && [1/2] Building C object CMakeFiles\cmTC_771c1.dir\src.c.obj
+src.c(4): warning C4013: '__sync_val_compare_and_swap' undefined; assuming extern returning int
+[2/2] Linking C executable cmTC_771c1.exe
+FAILED: cmTC_771c1.exe 
+cmd.exe /C "cd . && "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_771c1.dir --rc=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=D:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests  -- D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_771c1.dir\src.c.obj  /out:cmTC_771c1.exe /implib:cmTC_771c1.lib /pdb:cmTC_771c1.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_771c1.dir\src.c.obj /out:cmTC_771c1.exe /implib:cmTC_771c1.lib /pdb:cmTC_771c1.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_771c1.dir/intermediate.manifest CMakeFiles\cmTC_771c1.dir/manifest.res" failed (exit code 1120) with the following output:
+src.c.obj : error LNK2019: unresolved external symbol __sync_val_compare_and_swap referenced in function main
+cmTC_771c1.exe : fatal error LNK1120: 1 unresolved externals
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+int main(void)
+{
+  int a; if (__sync_val_compare_and_swap(&a, 0, 1)) return 1; return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_RWLOCK failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d5005 && [1/2] Building C object CMakeFiles\cmTC_d5005.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_d5005.dir/src.c.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo -DHAVE_RWLOCK  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_d5005.dir\src.c.obj /FdCMakeFiles\cmTC_d5005.dir\ /FS -c src.c
+src.c(3): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#define _XOPEN_SOURCE 500
+#include <pthread.h>
+int main(void)
+{
+  pthread_rwlock_t l;
+  pthread_rwlock_init(&l, NULL);
+  pthread_rwlock_rdlock(&l);
+  return 0;
+}
+
+Performing C++ SOURCE FILE Test STL_NO_NAMESPACE failed with the following output:
+Change Dir: D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/glog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bbb4b && [1/2] Building CXX object CMakeFiles\cmTC_bbb4b.dir\src.cxx.obj
+FAILED: CMakeFiles/cmTC_bbb4b.dir/src.cxx.obj 
+D:\PROGRA~2\MICROS~1\2019\ENTERP~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo /TP -DSTL_NO_NAMESPACE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_bbb4b.dir\src.cxx.obj /FdCMakeFiles\cmTC_bbb4b.dir\ /FS -c src.cxx
+src.cxx(3): error C2143: syntax error: missing ';' before '<'
+src.cxx(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <vector>
+vector<int> t; int main() { }
+
