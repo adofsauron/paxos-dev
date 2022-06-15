@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gflags",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gflags::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gflags-Debug-f407e4ff5f99fc39a026.json",
+					"name" : "gflags",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gflags_nothreads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gflags_nothreads-Debug-aec30e9cddfb5d636a4d.json",
+					"name" : "gflags_nothreads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gflags_nothreads_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gflags_nothreads_static-Debug-1f329e165f4d13bbcc34.json",
+					"name" : "gflags_nothreads_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gflags_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gflags_static-Debug-af6c06b0ca6a76da9175.json",
+					"name" : "gflags_static",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/out/build/x64-Debug",
+		"source" : "D:/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
