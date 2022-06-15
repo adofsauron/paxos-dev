@@ -3,8 +3,8 @@ git config --global core.autocrlf false
 
 git add .
 
-git commit -m "fix master"
+git commit -m "fix main"
 
-git push -u origin master
+git push -u origin main
 
 pause
