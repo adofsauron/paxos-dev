@@ -38,6 +38,8 @@ if [ ! -f leveldb/lib/libleveldb.a ]; then
 	cd ../
 fi
 
+if [ ! -f  ]
+
 cd ..
 
 ./autoinstall.sh
