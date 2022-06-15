@@ -24,7 +24,7 @@ See the AUTHORS file for names of contributors.
 #include "phxpaxos/node.h"
 #include <string>
 #include <vector>
-#include "phxpaxos_plugin/logger_google.h"
+// #include "phxpaxos_plugin/logger_google.h"
 #include "phxpaxos/options.h"
 
 namespace phxelection
