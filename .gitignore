@@ -5,8 +5,12 @@ obj/
 bin/
 lib/
 .lib/
+libs/
 .libs/
 .sbin/
+out/
+out-shared/
+out-static/
 *.ao
 *.a
 *.o
