@@ -1,0 +1,13 @@
+prefix=/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/grpc
+exec_prefix=/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/grpc
+libdir=/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/grpc/lib
+sharedlibdir=/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/grpc/lib
+includedir=/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/grpc/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

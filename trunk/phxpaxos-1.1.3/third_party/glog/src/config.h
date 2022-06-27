@@ -127,8 +127,7 @@
 /* define if your compiler has __sync_val_compare_and_swap */
 #define HAVE___SYNC_VAL_COMPARE_AND_SWAP 1
 
-/* Define to the sub-directory in which libtool stores uninstalled libraries.
-   */
+/* Define to the sub-directory where libtool stores uninstalled libraries. */
 #define LT_OBJDIR ".libs/"
 
 /* Name of package */

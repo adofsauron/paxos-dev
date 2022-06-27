@@ -4,7 +4,9 @@ out/
 obj/
 bin/
 lib/
+.lib/
 .libs/
+.sbin/
 *.ao
 *.a
 *.o
@@ -13,4 +15,8 @@ libprotoc.a
 libprotobuf.a
 libprotoc.so.10.0.0
 .deps/
+CMakeFiles/
+*.O
+lib64/
+crl_data/
 

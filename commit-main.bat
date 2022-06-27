@@ -5,7 +5,7 @@ git config advice.useCoreFSMonitorConfig false
 
 git add .
 
-git commit -m "fix main"
+git commit -a -m "fix main"
 
 git push -u origin main
 
