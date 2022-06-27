@@ -1,4 +1,4 @@
-SRC_BASE_PATH=/root/work/paxos-dev/trunk/phxpaxos-1.1.3
+SRC_BASE_PATH=/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3
 
 all:phxecho_bin 
 

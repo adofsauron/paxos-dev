@@ -42,5 +42,5 @@ cd ..
 
 bash ./autoinstall.sh
 
-make
+make -j"$(nproc)"
 

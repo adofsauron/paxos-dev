@@ -1,0 +1,7 @@
+/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/lib/cmake/gflags/gflags-config.cmake
+/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/lib/cmake/gflags/gflags-config-version.cmake
+/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/lib/cmake/gflags/gflags-targets.cmake
+/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/lib/cmake/gflags/gflags-targets-noconfig.cmake
+/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/bin/gflags_completions.sh
+/mnt/d/work/code/paxos-dev/trunk/phxpaxos-1.1.3/third_party/gflags/lib/pkgconfig/gflags.pc
+/root/.cmake/packages/gflags/24578b78bfde6021055f55eb285401f6

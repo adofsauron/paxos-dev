@@ -8,4 +8,9 @@ lib/
 *.ao
 *.a
 *.o
+*.lo
+libprotoc.a
+libprotobuf.a
+libprotoc.so.10.0.0
+.deps/
 
